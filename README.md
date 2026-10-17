@@ -1,0 +1,1 @@
+# Santafé para Sublime Text\n\nRepositório público do pacote oficial da linguagem Santafé para Sublime Text. A versão e os arquivos distribuídos são publicados em tags Git.\n\nInstale pela origem oficial: `Package Control: Add Repository` → `https://xn--santaf-gva.dev.br/estático/sublime/packages.json`.\n

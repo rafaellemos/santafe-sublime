@@ -1,0 +1,1725 @@
+{
+  "versão": 1,
+  "itens": [
+    {
+      "rótulo": "acesso:permita",
+      "origem": "bibs/bibf/nomes/acesso.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "agência:autentique",
+      "origem": "bibs/bibf/correio/agência.fé",
+      "categoria": "Correio — componentes"
+    },
+    {
+      "rótulo": "agência:autorizeDestinatário",
+      "origem": "bibs/bibf/correio/agência.fé",
+      "categoria": "Correio — componentes"
+    },
+    {
+      "rótulo": "agência:autorizeRemetente",
+      "origem": "bibs/bibf/correio/agência.fé",
+      "categoria": "Correio — componentes"
+    },
+    {
+      "rótulo": "agência:receba",
+      "origem": "bibs/bibf/correio/agência.fé",
+      "categoria": "Correio — componentes"
+    },
+    {
+      "rótulo": "antivírus.novo",
+      "origem": "bibs/bibf/correio/antivírus.fé",
+      "categoria": "Correio — componentes"
+    },
+    {
+      "rótulo": "antivírus:confiraAssíncrono",
+      "origem": "bibs/bibf/correio/antivírus.fé",
+      "categoria": "Correio — componentes"
+    },
+    {
+      "rótulo": "antivírus:examineAssíncrono",
+      "origem": "bibs/bibf/correio/antivírus.fé",
+      "categoria": "Correio — componentes"
+    },
+    {
+      "rótulo": "ap.aoFalhar",
+      "origem": "bibs/bibf/caminheiro.fé",
+      "categoria": "Caminheiro"
+    },
+    {
+      "rótulo": "ap.depure",
+      "origem": "bibs/bibf/caminheiro.fé",
+      "categoria": "Caminheiro"
+    },
+    {
+      "rótulo": "ap.encerre",
+      "origem": "bibs/bibf/caminheiro.fé",
+      "categoria": "Caminheiro"
+    },
+    {
+      "rótulo": "ap.escute",
+      "origem": "bibs/bibf/caminheiro.fé",
+      "categoria": "Caminheiro"
+    },
+    {
+      "rótulo": "ap.parada",
+      "origem": "bibs/bibf/caminheiro.fé",
+      "categoria": "Caminheiro"
+    },
+    {
+      "rótulo": "ap.rota",
+      "origem": "bibs/bibf/caminheiro.fé",
+      "categoria": "Caminheiro"
+    },
+    {
+      "rótulo": "autenticador:avalieAssíncrono",
+      "origem": "bibs/bibf/correio/autenticação.fé",
+      "categoria": "Correio — componentes"
+    },
+    {
+      "rótulo": "autenticação.nova",
+      "origem": "bibs/bibf/correio/autenticação.fé",
+      "categoria": "Correio — componentes"
+    },
+    {
+      "rótulo": "autoridade:escute",
+      "origem": "bibs/bibf/nomes/autoridade.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "autoridade:estatísticas",
+      "origem": "bibs/bibf/nomes/autoridade.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "autoridade:feche",
+      "origem": "bibs/bibf/nomes/autoridade.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "autoridade:inicie",
+      "origem": "bibs/bibf/nomes/autoridade.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "autoridade:responda",
+      "origem": "bibs/bibf/nomes/autoridade.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "bit32.be",
+      "origem": "bibs/bibf/bit32.fé",
+      "categoria": "bit32"
+    },
+    {
+      "rótulo": "bit32.bnão",
+      "origem": "bibs/bibf/bit32.fé",
+      "categoria": "bit32"
+    },
+    {
+      "rótulo": "bit32.bou",
+      "origem": "bibs/bibf/bit32.fé",
+      "categoria": "bit32"
+    },
+    {
+      "rótulo": "bit32.boux",
+      "origem": "bibs/bibf/bit32.fé",
+      "categoria": "bit32"
+    },
+    {
+      "rótulo": "bit32.bTeste",
+      "origem": "bibs/bibf/bit32.fé",
+      "categoria": "bit32"
+    },
+    {
+      "rótulo": "bit32.desloqueAritméticoDireita",
+      "origem": "bibs/bibf/bit32.fé",
+      "categoria": "bit32"
+    },
+    {
+      "rótulo": "bit32.desloqueDireita",
+      "origem": "bibs/bibf/bit32.fé",
+      "categoria": "bit32"
+    },
+    {
+      "rótulo": "bit32.desloqueEsquerda",
+      "origem": "bibs/bibf/bit32.fé",
+      "categoria": "bit32"
+    },
+    {
+      "rótulo": "bit32.extraia",
+      "origem": "bibs/bibf/bit32.fé",
+      "categoria": "bit32"
+    },
+    {
+      "rótulo": "bit32.gireDireita",
+      "origem": "bibs/bibf/bit32.fé",
+      "categoria": "bit32"
+    },
+    {
+      "rótulo": "bit32.gireEsquerda",
+      "origem": "bibs/bibf/bit32.fé",
+      "categoria": "bit32"
+    },
+    {
+      "rótulo": "bit32.substitua",
+      "origem": "bibs/bibf/bit32.fé",
+      "categoria": "bit32"
+    },
+    {
+      "rótulo": "caminheiro.form",
+      "origem": "bibs/bibf/caminheiro.fé",
+      "categoria": "Caminheiro"
+    },
+    {
+      "rótulo": "caminheiro.formulárioEmPartes",
+      "origem": "bibs/bibf/caminheiro.fé",
+      "categoria": "Caminheiro"
+    },
+    {
+      "rótulo": "caminheiro.novo",
+      "origem": "bibs/bibf/caminheiro.fé",
+      "categoria": "Caminheiro"
+    },
+    {
+      "rótulo": "canal:adicioneDestino",
+      "origem": "bibs/bibf/pulso.fé",
+      "categoria": "PULSO"
+    },
+    {
+      "rótulo": "canal:confirmação",
+      "origem": "bibs/bibf/pulso.fé",
+      "categoria": "PULSO"
+    },
+    {
+      "rótulo": "canal:despeje",
+      "origem": "bibs/bibf/pulso.fé",
+      "categoria": "PULSO"
+    },
+    {
+      "rótulo": "canal:emita",
+      "origem": "bibs/bibf/pulso.fé",
+      "categoria": "PULSO"
+    },
+    {
+      "rótulo": "canal:estatísticas",
+      "origem": "bibs/bibf/pulso.fé",
+      "categoria": "PULSO"
+    },
+    {
+      "rótulo": "canal:feche",
+      "origem": "bibs/bibf/pulso.fé",
+      "categoria": "PULSO"
+    },
+    {
+      "rótulo": "canal:leitura",
+      "origem": "bibs/bibf/pulso.fé",
+      "categoria": "PULSO"
+    },
+    {
+      "rótulo": "canal:operação",
+      "origem": "bibs/bibf/pulso.fé",
+      "categoria": "PULSO"
+    },
+    {
+      "rótulo": "canal:pulsoDeVida",
+      "origem": "bibs/bibf/pulso.fé",
+      "categoria": "PULSO"
+    },
+    {
+      "rótulo": "canal:recusa",
+      "origem": "bibs/bibf/pulso.fé",
+      "categoria": "PULSO"
+    },
+    {
+      "rótulo": "canal:removaDestino",
+      "origem": "bibs/bibf/pulso.fé",
+      "categoria": "PULSO"
+    },
+    {
+      "rótulo": "canal:sinal",
+      "origem": "bibs/bibf/pulso.fé",
+      "categoria": "PULSO"
+    },
+    {
+      "rótulo": "carteiro.novo",
+      "origem": "bibs/bibf/carteiro.fé",
+      "categoria": "Carteiro"
+    },
+    {
+      "rótulo": "carteiro:caixaDoUsuário",
+      "origem": "bibs/bibf/carteiro.fé",
+      "categoria": "Carteiro"
+    },
+    {
+      "rótulo": "carteiro:confieNoRemetente",
+      "origem": "bibs/bibf/carteiro.fé",
+      "categoria": "Carteiro"
+    },
+    {
+      "rótulo": "carteiro:conteCartas",
+      "origem": "bibs/bibf/carteiro.fé",
+      "categoria": "Carteiro"
+    },
+    {
+      "rótulo": "carteiro:decidaTriagemDaCarta",
+      "origem": "bibs/bibf/carteiro.fé",
+      "categoria": "Carteiro"
+    },
+    {
+      "rótulo": "carteiro:deixeDeConfiarNoRemetente",
+      "origem": "bibs/bibf/carteiro.fé",
+      "categoria": "Carteiro"
+    },
+    {
+      "rótulo": "carteiro:envieCarta",
+      "origem": "bibs/bibf/carteiro.fé",
+      "categoria": "Carteiro"
+    },
+    {
+      "rótulo": "carteiro:esvazieLixeira",
+      "origem": "bibs/bibf/carteiro.fé",
+      "categoria": "Carteiro"
+    },
+    {
+      "rótulo": "carteiro:listeCartas",
+      "origem": "bibs/bibf/carteiro.fé",
+      "categoria": "Carteiro"
+    },
+    {
+      "rótulo": "carteiro:listeCartasDaConversa",
+      "origem": "bibs/bibf/carteiro.fé",
+      "categoria": "Carteiro"
+    },
+    {
+      "rótulo": "carteiro:listeCartasParaAção",
+      "origem": "bibs/bibf/carteiro.fé",
+      "categoria": "Carteiro"
+    },
+    {
+      "rótulo": "carteiro:listeRegrasDaTriagem",
+      "origem": "bibs/bibf/carteiro.fé",
+      "categoria": "Carteiro"
+    },
+    {
+      "rótulo": "carteiro:marqueCartaLida",
+      "origem": "bibs/bibf/carteiro.fé",
+      "categoria": "Carteiro"
+    },
+    {
+      "rótulo": "carteiro:marqueCartaNãoLida",
+      "origem": "bibs/bibf/carteiro.fé",
+      "categoria": "Carteiro"
+    },
+    {
+      "rótulo": "carteiro:marqueCartasLidas",
+      "origem": "bibs/bibf/carteiro.fé",
+      "categoria": "Carteiro"
+    },
+    {
+      "rótulo": "carteiro:marqueCartasNãoLidas",
+      "origem": "bibs/bibf/carteiro.fé",
+      "categoria": "Carteiro"
+    },
+    {
+      "rótulo": "carteiro:movaCarta",
+      "origem": "bibs/bibf/carteiro.fé",
+      "categoria": "Carteiro"
+    },
+    {
+      "rótulo": "carteiro:movaCartas",
+      "origem": "bibs/bibf/carteiro.fé",
+      "categoria": "Carteiro"
+    },
+    {
+      "rótulo": "carteiro:obtenhaAnexo",
+      "origem": "bibs/bibf/carteiro.fé",
+      "categoria": "Carteiro"
+    },
+    {
+      "rótulo": "carteiro:obtenhaCarta",
+      "origem": "bibs/bibf/carteiro.fé",
+      "categoria": "Carteiro"
+    },
+    {
+      "rótulo": "carteiro:obtenhaCartaOriginal",
+      "origem": "bibs/bibf/carteiro.fé",
+      "categoria": "Carteiro"
+    },
+    {
+      "rótulo": "carteiro:pastas",
+      "origem": "bibs/bibf/carteiro.fé",
+      "categoria": "Carteiro"
+    },
+    {
+      "rótulo": "carteiro:remetenteConfiável",
+      "origem": "bibs/bibf/carteiro.fé",
+      "categoria": "Carteiro"
+    },
+    {
+      "rótulo": "carteiro:removaRegraDaTriagem",
+      "origem": "bibs/bibf/carteiro.fé",
+      "categoria": "Carteiro"
+    },
+    {
+      "rótulo": "carteiro:salveRegraDaTriagem",
+      "origem": "bibs/bibf/carteiro.fé",
+      "categoria": "Carteiro"
+    },
+    {
+      "rótulo": "carteiro:usuárioPorSessão",
+      "origem": "bibs/bibf/carteiro.fé",
+      "categoria": "Carteiro"
+    },
+    {
+      "rótulo": "cd:aceiteDestinatário",
+      "origem": "bibs/bibf/correio/cd.fé",
+      "categoria": "Correio — componentes"
+    },
+    {
+      "rótulo": "cd:atualizeEntrega",
+      "origem": "bibs/bibf/correio/cd.fé",
+      "categoria": "Correio — componentes"
+    },
+    {
+      "rótulo": "cd:entregueAvisoDaFila",
+      "origem": "bibs/bibf/correio/cd.fé",
+      "categoria": "Correio — componentes"
+    },
+    {
+      "rótulo": "cd:posteCarta",
+      "origem": "bibs/bibf/correio/cd.fé",
+      "categoria": "Correio — componentes"
+    },
+    {
+      "rótulo": "cd:recebaCarta",
+      "origem": "bibs/bibf/correio/cd.fé",
+      "categoria": "Correio — componentes"
+    },
+    {
+      "rótulo": "cliente:envieAssíncrono",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "cliente:feche",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "correio.agência.nova",
+      "origem": "bibs/bibf/correio/agência.fé",
+      "categoria": "Correio — componentes"
+    },
+    {
+      "rótulo": "correio.cd.novo",
+      "origem": "bibs/bibf/correio/cd.fé",
+      "categoria": "Correio — componentes"
+    },
+    {
+      "rótulo": "correio.cliente",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "correio.desprotejaPontos",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "correio.entregueDiretamenteAssíncrono",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "correio.filaMariaDB",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "correio.filaMemória",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "correio.imap.servidor",
+      "origem": "bibs/bibf/correio/imap.fé",
+      "categoria": "Correio — componentes"
+    },
+    {
+      "rótulo": "correio.inspecioneCabeçalhos",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "correio.leiaMensagem",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "correio.mariadb.novo",
+      "origem": "bibs/bibf/correio/mariadb.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "correio.multibanco.inicie",
+      "origem": "bibs/bibf/correio/multibanco.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "correio.multibanco.novo",
+      "origem": "bibs/bibf/correio/multibanco.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "correio.novaMensagem",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "correio.protejaPontos",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "correio.servidor",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "correio.transporte.endereçoASCII",
+      "origem": "bibs/bibf/correio/transporte.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "correio.transporte.prepareRetransmissor",
+      "origem": "bibs/bibf/correio/transporte.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "correio.triagem.nova",
+      "origem": "bibs/bibf/correio/triagem.fé",
+      "categoria": "Correio — componentes"
+    },
+    {
+      "rótulo": "correio.util.apare",
+      "origem": "bibs/bibf/correio/util.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "correio.util.escapeHTML",
+      "origem": "bibs/bibf/correio/util.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "correio.util.idNatural",
+      "origem": "bibs/bibf/correio/util.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "correio.util.nomeSeguroDoAnexo",
+      "origem": "bibs/bibf/correio/util.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "correio.util.resumo",
+      "origem": "bibs/bibf/correio/util.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "correio.util.separeEndereços",
+      "origem": "bibs/bibf/correio/util.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "decodificador:alimente",
+      "origem": "bibs/bibf/pulso.fé",
+      "categoria": "PULSO"
+    },
+    {
+      "rótulo": "decodificador:pendente",
+      "origem": "bibs/bibf/pulso.fé",
+      "categoria": "PULSO"
+    },
+    {
+      "rótulo": "decodificador:reinicie",
+      "origem": "bibs/bibf/pulso.fé",
+      "categoria": "PULSO"
+    },
+    {
+      "rótulo": "depósito.novo",
+      "origem": "bibs/bibf/correio/depósito.fé",
+      "categoria": "Correio — componentes"
+    },
+    {
+      "rótulo": "depósito:caminhoDoObjeto",
+      "origem": "bibs/bibf/correio/depósito.fé",
+      "categoria": "Correio — componentes"
+    },
+    {
+      "rótulo": "depósito:graveAssíncrono",
+      "origem": "bibs/bibf/correio/depósito.fé",
+      "categoria": "Correio — componentes"
+    },
+    {
+      "rótulo": "depósito:leiaAssíncrono",
+      "origem": "bibs/bibf/correio/depósito.fé",
+      "categoria": "Correio — componentes"
+    },
+    {
+      "rótulo": "depósito:prepareAssíncrono",
+      "origem": "bibs/bibf/correio/depósito.fé",
+      "categoria": "Correio — componentes"
+    },
+    {
+      "rótulo": "destino:envie",
+      "origem": "bibs/bibf/pulso.fé",
+      "categoria": "PULSO"
+    },
+    {
+      "rótulo": "destino:esvazie",
+      "origem": "bibs/bibf/pulso.fé",
+      "categoria": "PULSO"
+    },
+    {
+      "rótulo": "destino:feche",
+      "origem": "bibs/bibf/pulso.fé",
+      "categoria": "PULSO"
+    },
+    {
+      "rótulo": "dkim.assine",
+      "origem": "bibs/bibf/correio/dkim.fé",
+      "categoria": "Correio — componentes"
+    },
+    {
+      "rótulo": "dkim.verifiqueAssíncrono",
+      "origem": "bibs/bibf/correio/dkim.fé",
+      "categoria": "Correio — componentes"
+    },
+    {
+      "rótulo": "dmarc.avalieAssíncrono",
+      "origem": "bibs/bibf/correio/dmarc.fé",
+      "categoria": "Correio — componentes"
+    },
+    {
+      "rótulo": "dnssec:encontreNSEC",
+      "origem": "bibs/bibf/nomes/dnssec.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "dnssec:formateDS",
+      "origem": "bibs/bibf/nomes/dnssec.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "entrega.espera",
+      "origem": "bibs/bibf/correio/entrega.fé",
+      "categoria": "Correio — componentes"
+    },
+    {
+      "rótulo": "entrega.formeAviso",
+      "origem": "bibs/bibf/correio/entrega.fé",
+      "categoria": "Correio — componentes"
+    },
+    {
+      "rótulo": "fila:adicioneAssíncrono",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "fila:adicioneFormadaAssíncrono",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "fila:adieAssíncrono",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "fila:adieAvisoAssíncrono",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "fila:adieParcialAssíncrono",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "fila:canceleAvisosDesatualizadosAssíncrono",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "fila:crieEstruturaAssíncrona",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "fila:listeQuarentenaAssíncrono",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "fila:marqueEntregueAssíncrono",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "fila:marqueFalhouAssíncrono",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "fila:marqueFalhouEAviseAssíncrono",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "fila:quarenteneAssíncrono",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "fila:receba",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "fila:recupereAvisosExpiradosAssíncrono",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "fila:recupereReservasExpiradasAssíncrono",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "fila:registreFalhaInternaAssíncrono",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "fila:reprocesseQuarentenaAssíncrono",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "fila:reservePróximaAssíncrono",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "fila:reservePróximoAvisoAssíncrono",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "fila:soliciteAvisoAssíncrono",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "filaMemória:receba",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "imagem.codifique",
+      "origem": "bibs/bibf/imagem.fé",
+      "categoria": "Imagem"
+    },
+    {
+      "rótulo": "imagem.identifique",
+      "origem": "bibs/bibf/imagem.fé",
+      "categoria": "Imagem"
+    },
+    {
+      "rótulo": "imagem.leia",
+      "origem": "bibs/bibf/imagem.fé",
+      "categoria": "Imagem"
+    },
+    {
+      "rótulo": "imagem.paraPDF",
+      "origem": "bibs/bibf/imagem.fé",
+      "categoria": "Imagem"
+    },
+    {
+      "rótulo": "imagem.salve",
+      "origem": "bibs/bibf/imagem.fé",
+      "categoria": "Imagem"
+    },
+    {
+      "rótulo": "limitador:estatísticas",
+      "origem": "bibs/bibf/nomes/acesso.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "limitador:permita",
+      "origem": "bibs/bibf/nomes/acesso.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "mensagem:destinatários",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "mensagem:forme",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "multibanco:adicioneMensagemIMAP",
+      "origem": "bibs/bibf/correio/multibanco.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "multibanco:adicioneSaída",
+      "origem": "bibs/bibf/correio/multibanco.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "multibanco:atualizeSinalizadoresIMAP",
+      "origem": "bibs/bibf/correio/multibanco.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "multibanco:autentiqueCaixa",
+      "origem": "bibs/bibf/correio/multibanco.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "multibanco:bancoDoEndereço",
+      "origem": "bibs/bibf/correio/multibanco.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "multibanco:chaveDoEndereço",
+      "origem": "bibs/bibf/correio/multibanco.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "multibanco:confiraEstrutura",
+      "origem": "bibs/bibf/correio/multibanco.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "multibanco:copieMensagensIMAP",
+      "origem": "bibs/bibf/correio/multibanco.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "multibanco:esvazieLixeira",
+      "origem": "bibs/bibf/correio/multibanco.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "multibanco:existeDestinatárioLocal",
+      "origem": "bibs/bibf/correio/multibanco.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "multibanco:feche",
+      "origem": "bibs/bibf/correio/multibanco.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "multibanco:listeMensagensIMAP",
+      "origem": "bibs/bibf/correio/multibanco.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "multibanco:movaMensagemIMAP",
+      "origem": "bibs/bibf/correio/multibanco.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "multibanco:obtenhaAnexo",
+      "origem": "bibs/bibf/correio/multibanco.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "multibanco:obtenhaMensagemIMAP",
+      "origem": "bibs/bibf/correio/multibanco.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "multibanco:recebaSMTP",
+      "origem": "bibs/bibf/correio/multibanco.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "multibanco:removaMensagemIMAP",
+      "origem": "bibs/bibf/correio/multibanco.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "nomes.acesso.novo",
+      "origem": "bibs/bibf/nomes/acesso.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "nomes.acesso.novoLimitador",
+      "origem": "bibs/bibf/nomes/acesso.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "nomes.acesso.pertence",
+      "origem": "bibs/bibf/nomes/acesso.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "nomes.autoridade.novo",
+      "origem": "bibs/bibf/nomes/autoridade.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "nomes.CLASSES",
+      "origem": "bibs/bibf/nomes.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "nomes.codifiqueMensagem",
+      "origem": "bibs/bibf/nomes.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "nomes.codifiqueNome",
+      "origem": "bibs/bibf/nomes.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "nomes.CÓDIGOS",
+      "origem": "bibs/bibf/nomes.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "nomes.decodifiqueMensagem",
+      "origem": "bibs/bibf/nomes.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "nomes.decodifiqueNome",
+      "origem": "bibs/bibf/nomes.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "nomes.dnssec.assineZona",
+      "origem": "bibs/bibf/nomes/dnssec.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "nomes.nomeCanônico",
+      "origem": "bibs/bibf/nomes.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "nomes.nomeDoTipo",
+      "origem": "bibs/bibf/nomes.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "nomes.novaConsulta",
+      "origem": "bibs/bibf/nomes.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "nomes.resolvedor.novo",
+      "origem": "bibs/bibf/nomes/resolvedor.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "nomes.tipoParaNúmero",
+      "origem": "bibs/bibf/nomes.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "nomes.TIPOS",
+      "origem": "bibs/bibf/nomes.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "nomes.zona.nova",
+      "origem": "bibs/bibf/nomes/zona.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "pdf:Abra",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:AceitaQuebraDePágina",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:AdicioneJavaScript",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:AdicioneLigação",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:AdicionePágina",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:AutoImprima",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:Cabeçalho",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:CalculeLinhas",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:ConfereQuebraDePágina",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:CorteIndefinido",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:Célula",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:CélulaAjustada",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:CélulaAjustadaEscapada",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:CélulaAjustadaEscapadaForçada",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:CélulaAjustadaHorizontal",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:CélulaAjustadaHorizontalForçada",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:CélulaCortada",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:Círculo",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:CódigoDeBarras2de5i",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:DefinaAbscissa",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:DefinaAbscissaEOrdenada",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:DefinaAlfa",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:DefinaAssunto",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:DefinaAutoQuebraDePágina",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:DefinaAutor",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:DefinaCompressão",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:DefinaConfiguraçõesDaFonte",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:DefinaCorDaLinha",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:DefinaCorDoTexto",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:DefinaCorInterna",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:DefinaCriador",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:DefinaDuplaFace",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:DefinaEspessuraDoQuadro",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:DefinaFonte",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:DefinaLigação",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:DefinaMargemDireita",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:DefinaMargemEsquerda",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:DefinaMargemSuperior",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:DefinaMargens",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:DefinaModoExibido",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:DefinaOrdenada",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:DefinaPalavrasChave",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:DefinaTamanhoDaFonte",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:DefinaTraço",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:DefinaTítulo",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:Elipse",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:Escreva",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:Feche",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:Imagem",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:Ligação",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:LinearGradiente",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:Linha",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:MultiCélula",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:MultiCélulaEngarrafada",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:NovaLinha",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:NúmeroDaPágina",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:PegueAbscissa",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:PegueAltura",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:PegueConfiguraçõesDaFonte",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:PegueCorDaLinha",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:PegueCorDoTexto",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:PegueCorInterna",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:PegueLargura",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:PegueLarguraDoColar",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:PegueMargemDireita",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:PegueMargemEsquerda",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:PegueOrdenada",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:PeguePseudoNúmeroDePáginas",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:PegueTamanhoDaFonte",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:Polígono",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:PseudoNúmeroDePáginas",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:RadialGradiente",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:Retângulo",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:RetânguloAbaulado",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:RetânguloCortado",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:Rodapé",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:Rotacione",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:Saída",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:Texto",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:TextoCortado",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:TextoRotacionado",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "pdf:TextoSombreado",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "proteção:admita",
+      "origem": "bibs/bibf/vigia.fé",
+      "categoria": "Vigia"
+    },
+    {
+      "rótulo": "proteção:bloqueie",
+      "origem": "bibs/bibf/vigia.fé",
+      "categoria": "Vigia"
+    },
+    {
+      "rótulo": "proteção:conclua",
+      "origem": "bibs/bibf/vigia.fé",
+      "categoria": "Vigia"
+    },
+    {
+      "rótulo": "proteção:estado",
+      "origem": "bibs/bibf/vigia.fé",
+      "categoria": "Vigia"
+    },
+    {
+      "rótulo": "proteção:estatísticas",
+      "origem": "bibs/bibf/vigia.fé",
+      "categoria": "Vigia"
+    },
+    {
+      "rótulo": "proteção:libere",
+      "origem": "bibs/bibf/vigia.fé",
+      "categoria": "Vigia"
+    },
+    {
+      "rótulo": "proteção:limpe",
+      "origem": "bibs/bibf/vigia.fé",
+      "categoria": "Vigia"
+    },
+    {
+      "rótulo": "proteção:registreFalha",
+      "origem": "bibs/bibf/vigia.fé",
+      "categoria": "Vigia"
+    },
+    {
+      "rótulo": "pulso.codifique",
+      "origem": "bibs/bibf/pulso.fé",
+      "categoria": "PULSO"
+    },
+    {
+      "rótulo": "pulso.memória",
+      "origem": "bibs/bibf/pulso.fé",
+      "categoria": "PULSO"
+    },
+    {
+      "rótulo": "pulso.novo",
+      "origem": "bibs/bibf/pulso.fé",
+      "categoria": "PULSO"
+    },
+    {
+      "rótulo": "pulso.novoDecodificador",
+      "origem": "bibs/bibf/pulso.fé",
+      "categoria": "PULSO"
+    },
+    {
+      "rótulo": "pulso.registrador",
+      "origem": "bibs/bibf/pulso.fé",
+      "categoria": "PULSO"
+    },
+    {
+      "rótulo": "pulso.terminal",
+      "origem": "bibs/bibf/pulso.fé",
+      "categoria": "PULSO"
+    },
+    {
+      "rótulo": "pulso.valide",
+      "origem": "bibs/bibf/pulso.fé",
+      "categoria": "PULSO"
+    },
+    {
+      "rótulo": "repositório:adicioneSaída",
+      "origem": "bibs/bibf/correio/mariadb.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "repositório:atualizeEntrega",
+      "origem": "bibs/bibf/correio/mariadb.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "repositório:confiraEstrutura",
+      "origem": "bibs/bibf/correio/mariadb.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "repositório:decidaTriagemDaCarta",
+      "origem": "bibs/bibf/correio/mariadb.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "repositório:existeDestinatárioLocal",
+      "origem": "bibs/bibf/correio/mariadb.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "repositório:listeMensagens",
+      "origem": "bibs/bibf/correio/mariadb.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "repositório:listeRegrasDaTriagem",
+      "origem": "bibs/bibf/correio/mariadb.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "repositório:marqueLida",
+      "origem": "bibs/bibf/correio/mariadb.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "repositório:movaMensagem",
+      "origem": "bibs/bibf/correio/mariadb.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "repositório:obtenhaAnexo",
+      "origem": "bibs/bibf/correio/mariadb.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "repositório:obtenhaMensagem",
+      "origem": "bibs/bibf/correio/mariadb.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "repositório:obtenhaOuCrieCaixa",
+      "origem": "bibs/bibf/correio/mariadb.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "repositório:obtenhaUsuárioPorSessão",
+      "origem": "bibs/bibf/correio/mariadb.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "repositório:recebaSMTP",
+      "origem": "bibs/bibf/correio/mariadb.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "repositório:removaRegraDaTriagem",
+      "origem": "bibs/bibf/correio/mariadb.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "repositório:salveRegraDaTriagem",
+      "origem": "bibs/bibf/correio/mariadb.fé",
+      "categoria": "Correio — persistência, multiambiente e transporte"
+    },
+    {
+      "rótulo": "req.arquivos",
+      "origem": "bibs/bibf/caminheiro.fé",
+      "categoria": "Caminheiro"
+    },
+    {
+      "rótulo": "req.cabeçalho",
+      "origem": "bibs/bibc/rede/rede.c",
+      "categoria": "Caminheiro"
+    },
+    {
+      "rótulo": "req.caminho",
+      "origem": "bibs/bibc/rede/rede.c",
+      "categoria": "Caminheiro"
+    },
+    {
+      "rótulo": "req.caminhoOriginal",
+      "origem": "bibs/bibf/caminheiro.fé",
+      "categoria": "Caminheiro"
+    },
+    {
+      "rótulo": "req.consulta",
+      "origem": "bibs/bibc/rede/rede.c",
+      "categoria": "Caminheiro"
+    },
+    {
+      "rótulo": "req.corpo",
+      "origem": "bibs/bibc/rede/rede.c",
+      "categoria": "Caminheiro"
+    },
+    {
+      "rótulo": "req.form",
+      "origem": "bibs/bibf/caminheiro.fé",
+      "categoria": "Caminheiro"
+    },
+    {
+      "rótulo": "req.ip",
+      "origem": "bibs/bibc/rede/rede.c",
+      "categoria": "Caminheiro"
+    },
+    {
+      "rótulo": "req.método",
+      "origem": "bibs/bibc/rede/rede.c",
+      "categoria": "Caminheiro"
+    },
+    {
+      "rótulo": "req.parâmetros",
+      "origem": "bibs/bibf/caminheiro.fé",
+      "categoria": "Caminheiro"
+    },
+    {
+      "rótulo": "req.portaRemota",
+      "origem": "bibs/bibc/rede/rede.c",
+      "categoria": "Caminheiro"
+    },
+    {
+      "rótulo": "req.versão",
+      "origem": "bibs/bibc/rede/rede.c",
+      "categoria": "Caminheiro"
+    },
+    {
+      "rótulo": "res:código",
+      "origem": "bibs/bibf/caminheiro.fé",
+      "categoria": "Caminheiro"
+    },
+    {
+      "rótulo": "res:dados",
+      "origem": "bibs/bibf/caminheiro.fé",
+      "categoria": "Caminheiro"
+    },
+    {
+      "rótulo": "res:definaCabeçalho",
+      "origem": "bibs/bibf/caminheiro.fé",
+      "categoria": "Caminheiro"
+    },
+    {
+      "rótulo": "res:html",
+      "origem": "bibs/bibf/caminheiro.fé",
+      "categoria": "Caminheiro"
+    },
+    {
+      "rótulo": "res:json",
+      "origem": "bibs/bibf/caminheiro.fé",
+      "categoria": "Caminheiro"
+    },
+    {
+      "rótulo": "res:texto",
+      "origem": "bibs/bibf/caminheiro.fé",
+      "categoria": "Caminheiro"
+    },
+    {
+      "rótulo": "resolvedor:escute",
+      "origem": "bibs/bibf/nomes/resolvedor.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "resolvedor:estatísticas",
+      "origem": "bibs/bibf/nomes/resolvedor.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "resolvedor:feche",
+      "origem": "bibs/bibf/nomes/resolvedor.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "resolvedor:inicie",
+      "origem": "bibs/bibf/nomes/resolvedor.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "resolvedor:inicieSomenteSaída",
+      "origem": "bibs/bibf/nomes/resolvedor.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "resolvedor:limpeMemrap",
+      "origem": "bibs/bibf/nomes/resolvedor.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "resolvedor:resolva",
+      "origem": "bibs/bibf/nomes/resolvedor.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "resolvedor:respondaAssíncrono",
+      "origem": "bibs/bibf/nomes/resolvedor.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "RPDF:novo",
+      "origem": "bibs/bibf/rpdf.fé",
+      "categoria": "RPDF — superfície estável; auxiliares privados não aparecem aqui"
+    },
+    {
+      "rótulo": "servidor:escute",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "servidor:escute",
+      "origem": "bibs/bibf/correio/imap.fé",
+      "categoria": "Correio — componentes"
+    },
+    {
+      "rótulo": "servidor:estatísticas",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "servidor:feche",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "servidor:feche",
+      "origem": "bibs/bibf/correio/imap.fé",
+      "categoria": "Correio — componentes"
+    },
+    {
+      "rótulo": "servidor:inicie",
+      "origem": "bibs/bibf/correio.fé",
+      "categoria": "Correio — mensagem, SMTP e filas"
+    },
+    {
+      "rótulo": "servidor:inicie",
+      "origem": "bibs/bibf/correio/imap.fé",
+      "categoria": "Correio — componentes"
+    },
+    {
+      "rótulo": "spf.verifiqueAssíncrono",
+      "origem": "bibs/bibf/correio/spf.fé",
+      "categoria": "Correio — componentes"
+    },
+    {
+      "rótulo": "triagem:avalie",
+      "origem": "bibs/bibf/correio/triagem.fé",
+      "categoria": "Correio — componentes"
+    },
+    {
+      "rótulo": "turing.registrar",
+      "origem": "bibs/bibf/turing.fé",
+      "categoria": "Turing"
+    },
+    {
+      "rótulo": "turing.validarBilhete",
+      "origem": "bibs/bibf/turing.fé",
+      "categoria": "Turing"
+    },
+    {
+      "rótulo": "Vigia.novo",
+      "origem": "bibs/bibf/vigia.fé",
+      "categoria": "Vigia"
+    },
+    {
+      "rótulo": "zona:adicione",
+      "origem": "bibs/bibf/nomes/zona.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "zona:consulte",
+      "origem": "bibs/bibf/nomes/zona.fé",
+      "categoria": "Nomes"
+    },
+    {
+      "rótulo": "zona:contém",
+      "origem": "bibs/bibf/nomes/zona.fé",
+      "categoria": "Nomes"
+    }
+  ]
+}

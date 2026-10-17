@@ -1,0 +1,14 @@
+{
+    "shell_cmd": "santafé \"$file\"",
+    "file_regex": "^(.+?):([0-9]+): (.*)$",
+    "selector": "source.santafe",
+    "env": {
+        "LANG": "pt_BR.UTF-8"
+    },
+    "variants": [
+        {
+            "name": "Verificar sintaxe",
+            "shell_cmd": "santafec -p \"$file\""
+        }
+    ]
+}
