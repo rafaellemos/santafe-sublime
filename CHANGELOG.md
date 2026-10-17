@@ -1,5 +1,11 @@
 # Registro de mudanças — Santafé para Sublime Text
 
+## 1.0.3 — 17 de outubro de 2026
+
+- Publica o catálogo e os arquivos de instalação por URLs totalmente ASCII,
+  com o caminho estático percentuado, para que o Package Control baixe o
+  pacote sem depender de interpretar caracteres fora do ASCII.
+
 ## 1.0.2 — 17 de outubro de 2026
 
 - Declara compatibilidade com os hosts Python 3.3, 3.8 e 3.14 do Sublime
