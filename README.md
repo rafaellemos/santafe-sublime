@@ -140,11 +140,16 @@ grava a configuração do servidor e pede ao Package Control o cliente comunitá
 **LSP**. Reabra o Sublime Text uma vez para concluir a instalação. Não é preciso
 editar preferências nem ajustar o `PATH` gráfico do macOS.
 
-O SLS 0.1.1 publicado diagnostica sintaxe. O perfil 0.2.0-dev.1 deste fonte
-acrescenta intervalos precisos e sincronização incremental, mas exige recompilar
-e instalar núcleo e SLS juntos; os binários 2.0.3 publicados não têm a nova API.
-Conclusões semânticas entre arquivos, referências, formatação e depuração são
-evoluções futuras do servidor.
+O SLS 1.0.0, publicado com o núcleo Santafé 2.1.0, oferece diagnósticos com
+intervalos precisos, sincronização incremental, conclusões, ajuda de parâmetros,
+definições e referências, renomeação com verificação de escopo e formatação
+conservadora do recuo. Analisa importações estáticas sem executar o programa nem
+suas dependências. Não oferece inferência completa de tipos nem depuração de
+execução; análise sintática e indexação ainda percorrem o documento completo.
+
+O cliente LSP negocia os recursos do servidor. Conclusões e ajuda locais ficam
+desativadas apenas quando uma sessão ativa oferece o recurso equivalente.
+Snippets, realce de HTML/JS e gabaritos continuam independentes do servidor.
 
 ## Catálogo público
 
